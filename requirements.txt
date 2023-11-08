@@ -1,0 +1,5 @@
+flask
+requests
+psycopg2-binary
+faker
+python-dotenv
