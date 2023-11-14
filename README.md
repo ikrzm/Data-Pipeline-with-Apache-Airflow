@@ -22,8 +22,8 @@ This project implements a robust data pipeline using Apache Airflow, integrating
 
 1. **Clone the Repository**
    ```bash
-   git clone [Your Repository URL]
-   cd [Your Repository Name]
+   git clone https://github.com/ikrzm/Data-Pipeline-with-Apache-Airflow.git
+   cd Data-Pipeline-with-Apache-Airflow
 2. **Setup your evironement**
  
    
