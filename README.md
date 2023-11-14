@@ -28,7 +28,6 @@ This project implements a robust data pipeline using Apache Airflow, integrating
    
 4.  **Build and Run with Docker Compose**
      ```bash
-   docker compose up --build
-
+     docker compose up --build
 This command builds the Docker images and starts the services defined in your docker-compose.yml file.
    
