@@ -37,7 +37,7 @@ Once the services are up and running, you can access the Airflow web interface a
 
    - **Username**: airflow
    - **Password**: airflow
-Navigate through the Airflow UI to trigger and monitor your data pipeline tasks.
+
 
 ## Project Structure
 - ./src/airflow/dags: Airflow DAGs for workflow definitions.
