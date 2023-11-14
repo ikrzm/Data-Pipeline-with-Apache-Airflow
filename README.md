@@ -35,20 +35,20 @@ This command builds the Docker images and starts the services defined in your do
 ## Usage
 Once the services are up and running, you can access the Airflow web interface at http://localhost:8080. Use the default credentials (if not changed) to log in:
 
-Username: airflow
-Password: airflow
+- **Username**: airflow
+- **Password**: airflow
 Navigate through the Airflow UI to trigger and monitor your data pipeline tasks.
 
 ## Project Structure
-./src/airflow/dags: Airflow DAGs for workflow definitions.
-./src/db_sql: SQL scripts and database management utilities.
-./src/db_psql: PostgreSQL database management scripts.
-./src/db_mongo: MongoDB initialization and management scripts.
+- ./src/airflow/dags: Airflow DAGs for workflow definitions.
+- ./src/db_sql: SQL scripts and database management utilities.
+- ./src/db_psql: PostgreSQL database management scripts.
+- ./src/db_mongo: MongoDB initialization and management scripts.
 ## Contributing
 Contributions to this project are welcome! Please adhere to the following guidelines:
 
-Fork the repository and create your branch from main.
-Write clear and concise commit messages.
-Ensure code style and quality compliance.
-Create a pull request with a detailed description of your changes.
+- Fork the repository and create your branch from main.
+- Write clear and concise commit messages.
+- Ensure code style and quality compliance.
+- Create a pull request with a detailed description of your changes.
    
