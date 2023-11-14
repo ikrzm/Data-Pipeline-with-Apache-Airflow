@@ -1,4 +1,5 @@
 # Data Pipeline with Apache Airflow
+![Data Pipeline Architecture](./project architecture.png)
 
 ## Description
 
