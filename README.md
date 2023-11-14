@@ -8,7 +8,6 @@ This project implements a robust data pipeline using Apache Airflow, integrating
 
 - **Apache Airflow**: Orchestrates complex workflows and data processing tasks.
 - **PostgreSQL**: Robust relational database for structured data storage.
-- **Redis**: High-performance message broker for task queuing.
 - **MongoDB**: Flexible NoSQL database for unstructured data handling.
 - **Docker Compose**: Simplifies deployment of multi-container applications.
 
@@ -16,6 +15,7 @@ This project implements a robust data pipeline using Apache Airflow, integrating
 
 - Docker and Docker Compose installed.
 - Basic understanding of Python, SQL, and NoSQL databases.
+- WSL2 installed
 
 ## Installation & Setup
 
@@ -23,3 +23,12 @@ This project implements a robust data pipeline using Apache Airflow, integrating
    ```bash
    git clone [Your Repository URL]
    cd [Your Repository Name]
+2. **Setup your evironement**
+ 
+   
+4.  **Build and Run with Docker Compose**
+     ```bash
+   docker compose up --build
+
+This command builds the Docker images and starts the services defined in your docker-compose.yml file.
+   
