@@ -3,3 +3,11 @@ requests
 psycopg2-binary
 faker
 python-dotenv
+black
+lint 
+pymongo
+pandas
+numpy
+datetime
+apache-airflow-providers-cncf-kubernetes
+apache-airflow['faker']
