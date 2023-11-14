@@ -3,7 +3,7 @@
 
 ## Description
 
-This project implements a robust data pipeline using Apache Airflow, integrating PostgreSQL for data storage, Redis as a message broker, and MongoDB for NoSQL data handling. It's designed for scalability, efficiency, and ease of management, suitable for a wide range of data processing and ETL tasks.
+This project implements a robust data pipeline using Apache Airflow, integrating PostgreSQL for data storage, and MongoDB for NoSQL data handling. It's designed for scalability, efficiency, and ease of management, suitable for a wide range of data processing and ETL tasks.
 
 ## Features
 
